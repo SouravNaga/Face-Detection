@@ -1,3 +1,3 @@
-# Shape-Detection
-Shape Detection using Python Machine Learning.
-here we can detect any shape using this detector application.
+# Face-Detection
+Face Detection using Python Machine Learning.
+here we can detect any Face using this detector application.
